@@ -1,14 +1,11 @@
-
 # Intercom AI Copilot UI Clone
-
 This project is a React-based web application that replicates the "AI Copilot for Teams" user interface from Intercom's demo. It's built using Vite, React, TailwindCSS, Framer Motion, and shadcn/ui components.
+*   **Live Demo:** [Click Here](https://intercom-clone-self.vercel.app/)
 
 ## Project Overview
-
 The application provides a modern, responsive interface designed for customer support or sales agents to collaborate with an AI assistant during live chats.
 
 ### Key Features:
-
 *   **Two-Panel Layout**:
     *   **Left Panel**: Displays a list of active conversations. Includes mock filters for priority, tags, unread messages, etc.
     *   **Right Panel**: Shows the currently selected chat window.
@@ -30,7 +27,6 @@ The application provides a modern, responsive interface designed for customer su
 *   **Dark Mode**: Toggle between light and dark themes.
 
 ## Technologies Used
-
 *   **Vite**: Frontend build tool and development server.
 *   **React**: JavaScript library for building user interfaces.
 *   **TailwindCSS**: Utility-first CSS framework for styling.
@@ -46,14 +42,11 @@ The application provides a modern, responsive interface designed for customer su
 *   **JavaScript (.jsx)**: Primary programming language.
 
 ## Getting Started
-
 ### Prerequisites
-
 *   Node.js (version 20.x or higher)
 *   npm (comes with Node.js)
 
 ### Installation & Running
-
 #### Clone the Repository
 ```bash
 git clone <repository-url>
@@ -66,7 +59,6 @@ npm run dev
 ```
 
 ## Functionality Details
-
 *   **Conversation List**:
     *   Displays a static list of sample conversations.
     *   Includes a search bar to filter conversations by name, company, or message content.
@@ -87,10 +79,17 @@ npm run dev
     *   The UI adapts its color scheme accordingly.
 
 ## Best Practices Implemented
-
 *   **Component-Based Architecture**: UI is broken down into reusable React components.
 *   **Utility-First CSS**: TailwindCSS for efficient and consistent styling.
 *   **Absolute Imports**: Using `@/` prefix for cleaner import paths.
 *   **Accessibility**: Basic semantic HTML and ARIA attributes are used where appropriate (though full WCAG compliance would require more thorough auditing).
 *   **Code Readability**: Code is formatted and structured for clarity.
 *   **Animations**: Framer Motion is used for purposeful and smooth UI animations enhancing user experience.
+
+## PFA-
+- ![image](https://github.com/user-attachments/assets/7e9dcc98-5358-463c-b087-6bd12954c12c)
+- ![image](https://github.com/user-attachments/assets/53ac720b-3b49-4ffc-996c-c617271e48d0)
+- ![image](https://github.com/user-attachments/assets/cf1f727b-4d8c-4134-9146-0abaa188445f)
+- ![image](https://github.com/user-attachments/assets/cb8de02c-01b6-4144-aa81-4034140016ce)
+- ![image](https://github.com/user-attachments/assets/68e0aece-1bed-43d7-986b-9d17456b35de)
+- ![image](https://github.com/user-attachments/assets/80a65a8e-5d28-496c-8694-dd2edac8883a)
